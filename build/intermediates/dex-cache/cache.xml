@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a153053fd1112496f8cfd94423e1ac055cf59f19">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_483e553436c9fb01db9a24d2aae72eeb8e7d21ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9ebf144cb3304df6b12efb3900be0ac71f610e56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_237b1027e38bbde6a9c4ce77b76eb8d6c8a102ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3f31cd49e9080d31bfff3c1783395c1847665ce">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3b42e3397ee7348dc6e14843211b0c380e4379ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_20531aabba4ab69daa7e5d1edbad33bcd6b456ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_bae42128f1e90aeff179bff2d9030ce961e0138a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_1b4aecd63e5afd94ef0123f2e456f9aa8415f713/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b5b04477b21f1594694bc3d0e3f9262a3f2c4632/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sharon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_0e9982fd02590577494d5d1bd7d45b5e462b0fcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_99ee83cb64f6e928001e9504778fe7ca361a9851/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_7912404b31d671265d80c5b0f6186a072e769602/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_946b8a07e2f911bc4064a5e436bf265018578cae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_f4e1eaf2638e42a1342ff7aab99d2af73bd174e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_0749af4c818e060b2b971d41ed0ac296e9350ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2ca5175021d555438b30c3b1e024043dacb05638/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6296299b3cc3bd209fb9f9b3ad7683d3f27c6c5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_c14097fa09b9c7f6b0e56375fecac6fe0ab8ac7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_ac75fa98d6908121181ac01503d55b7e5ad1a2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_8e394084d532b283ace546ed3974a1360a639969/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/source_code/HW/Money/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/media/source_code/HW/Money/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_acf73b7242c86ee741d080e4759a8964499ca5e6/classes.dex" />
+    </item>
+
+</items>

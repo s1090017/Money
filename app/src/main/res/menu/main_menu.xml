@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="HOME"/>
+    <item android:id ="@+id/calendar_statistics"
+        android:title="CALENDAR AND STATISTICS"/>
+    <item android:id="@+id/income"
+        android:title="ADD INCOME"/>
+    <item android:id="@+id/expense"
+        android:title="ADD EXPENSE"/>
+    <item android:id="@+id/settings"
+        android:title="SETTINGS"/>
+</menu>

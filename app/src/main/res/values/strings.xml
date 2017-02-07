@@ -1,0 +1,9 @@
+<resources>
+    <string name="main">"Money"</string>
+    <string name="Calendar">"Calendar"</string>
+    <string name="Income">"Income"</string>
+    <string name="Calculator">"Calculator"</string>
+    <string name="Expense">"Expense"</string>
+    <string name="Settings">"Settings"</string>
+    <string name="Budget">"Budget"</string>
+</resources>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_income"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingBottom="@dimen/activity_vertical_margin"
+android:paddingLeft="@dimen/activity_horizontal_margin"
+android:paddingRight="@dimen/activity_horizontal_margin"
+android:paddingTop="@dimen/activity_vertical_margin"
+tools:context="com.course.android.money.ExpenseActivity">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:id="@+id/linear_1"
+    android:weightSum="2">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_add_money"
+        android:text="add result"
+        android:layout_weight="1"
+        android:background="@drawable/button_selector"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_total_money"
+        android:hint="add result"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:layout_weight="1"/>
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="15dp"
+    android:layout_below="@+id/linear_1"
+    android:id="@+id/linear_2"
+    android:weightSum="4">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/btn_choice_day"
+        android:text="choice day"
+        android:background="@drawable/button_selector"
+        android:textSize="12sp"
+        android:layout_weight="1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/btn_regular_expense"
+        android:text="regular expense"
+        android:background="@drawable/button_selector"
+        android:layout_weight="1"
+        android:textSize="12sp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/btn_nonfixed_expense"
+        android:text="non-fixed expense"
+        android:background="@drawable/button_selector"
+        android:layout_weight="1"
+        android:textSize="12sp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/btn_note"
+        android:text="note"
+        android:layout_weight="1"
+        android:background="@drawable/button_selector"
+        android:textSize="12sp" />
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_below="@+id/linear_2"
+    android:id="@+id/linear_3"
+    android:weightSum="1">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/et_note"
+        android:hint="note"
+        android:layout_marginTop="5dp" />
+</LinearLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tab_calendar"
+        android:stretchColumns="*"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/linear_3">
+        <TableRow>
+            <CalendarView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/cv"
+                android:layout_below="@+id/tab_calendar" />
+        </TableRow>
+    </TableLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="15dp"
+    android:layout_below="@+id/tab_calendar"
+    android:id="@+id/linear_4"
+    android:weightSum="2">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/btn_cancel"
+        android:text="cancel"
+        android:layout_weight="1"
+        android:background="@drawable/button_selector"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/btn_ok"
+        android:text="ok"
+        android:layout_weight="1"
+        android:background="@drawable/button_selector"/>
+</LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="20dp"
+    android:layout_below="@+id/linear_4"
+    android:id="@+id/linear_5"
+    android:weightSum="1">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_add_result"
+        android:layout_marginTop="15dp"
+        android:scrollbars="vertical" />
+</LinearLayout>
+</RelativeLayout>
+

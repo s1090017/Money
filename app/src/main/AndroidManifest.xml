@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.course.android.money">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/main"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CalendarActivity"
+            android:label="@string/Calendar" />
+        <activity
+            android:name=".IncomeActivity"
+            android:label="@string/Income" />
+        <activity
+            android:name=".CalculatorActivity"
+            android:label="@string/Calculator" />
+        <activity
+            android:name=".ExpenseActivity"
+            android:label="@string/Expense" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/Settings"/>
+    </application>
+
+</manifest>
